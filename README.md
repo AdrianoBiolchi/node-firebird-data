@@ -39,13 +39,13 @@ __Changelog for version v0.2.x__
 ## Installation
 
 ```bash
-npm install node-firebird
+npm install node-firebird-data
 ```
 
 ## Usage
 
 ```js
-var Firebird = require('node-firebird');
+var Firebird = require('node-firebird-data');
 ```
 
 ### Methods
